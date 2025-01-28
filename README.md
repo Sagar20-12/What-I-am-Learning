@@ -37,3 +37,5 @@ Typescript : https://www.youtube.com/watch?v=F5pjG-sP0c8&t=2193s&ab_channel=Code
 Creating a metaverse : https://www.blockchainx.tech/how-to-create-your-own-Metaverse-virtual-world
 
 NodeJS : https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo
+
+1) Building Leetcode Helper Extension
